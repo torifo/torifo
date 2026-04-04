@@ -13,6 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-portorifo.riumu.net-7928CA?style=for-the-badge&logo=astro&logoColor=white)](https://portorifo.riumu.net)
 [![Dev Mail](https://img.shields.io/badge/Dev%20Mail-progbot.clover%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:progbot.clover@gmail.com)
 
+[![typograssy](https://typograssy.deno.dev/api?text=torifo&comment=Game%20%7C%20Dev%20%7C%20Travel)](https://github.com/kawarimidoll/typograssy)
+
 </div>
 
 ---
@@ -29,6 +31,14 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,java,ruby,react,nextjs,astro,nodejs,fastapi,postgres,docker,nginx,git&perline=8" />
+  </a>
+</div>
+
+<br>
 
 ### Languages
 
@@ -90,6 +100,19 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=torifo&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ja" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torifo&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torifo&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=torifo&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=tokyonight&utcOffset=9" />
 </div>
 
 <br>
