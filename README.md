@@ -34,15 +34,14 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,java,ruby,react,nextjs,astro,nodejs,fastapi,postgres,docker,nginx,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,java,ruby,react&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,nodejs,fastapi,postgres,docker,nginx,git&perline=8" />
   </a>
 </div>
 
 <br>
 
-### Languages
-
-<div align="left">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -52,13 +51,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</div>
-
-### Frameworks & Libraries
-
-<div align="left">
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
@@ -69,13 +61,6 @@
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-</div>
-
-### Database & Infrastructure
-
-<div align="left">
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -93,30 +78,29 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=torifo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torifo&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
-</div>
-
+<!-- ① 継続性：もっとも目を引く単一指標として中央に大きく配置 -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=torifo&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ja" />
 </div>
 
 <br>
 
+<!-- ② 全体像：コントリビューションタイムラインで活動の厚みを見せる -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torifo&theme=tokyonight" width="100%"/>
 </div>
 
+<br>
+
+<!-- ③ 詳細：言語の深さ（コミット量ベース）＋活動時間帯を左右に並置 -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torifo&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=torifo&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=tokyonight&utcOffset=9" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=tokyonight" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=tokyonight&utcOffset=9" width="49%"/>
 </div>
 
 <br>
 
+<!-- ④ 波形：日次の活動パターンを面グラフで締める -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torifo&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
