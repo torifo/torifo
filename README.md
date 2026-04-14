@@ -109,6 +109,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#8](https://github.com/naoya25/slack-channel-digest-public/pull/8) in [naoya25/slack-channel-digest-public](https://github.com/naoya25/slack-channel-digest-public)
 <!--END_SECTION:activity-->
 
 ---
