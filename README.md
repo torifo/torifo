@@ -109,7 +109,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#8](https://github.com/naoya25/slack-channel-digest-public/pull/8) in [naoya25/slack-channel-digest-public](https://github.com/naoya25/slack-channel-digest-public)
+1. 🎉 Merged PR [#8](https://github.com/naoya25/slack-channel-digest-public/pull/8) in [naoya25/slack-channel-digest-public](https://github.com/naoya25/slack-channel-digest-public)
 <!--END_SECTION:activity-->
 
 ---
