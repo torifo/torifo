@@ -90,17 +90,58 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Repositories
 
-> 🚧 *Work in Progress — リポジトリリンクは整備中*
+> GitHub repositories overview as of 2026-04-24 JST.
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**JGeo**](https://github.com/torifo) | 日本版ジオゲッサー ─ 地名当てゲーム | TypeScript / PostGIS |
-| [**Shikuty**](https://github.com/torifo) | 市区町村パズルゲーム | TypeScript |
-| [**旅の軌跡可視化**](https://github.com/torifo) | 旅行ルートをインタラクティブに表示 | React / PostGIS |
-| [**TMU 卒業要件チェッカー**](https://github.com/torifo) | 都立大の卒業要件を自動確認 | TypeScript / Next.js |
-| [**go-storage-analyzer**](https://github.com/torifo) | Goroutine による並列ストレージ解析 CLI | Go |
+| Scope | Count | Notes |
+|:------|------:|:------|
+| **Public** | 16 | OSS / portfolio / released personal projects |
+| **Private / 開発中** | 14 | Active development and private experiments |
+| **Private / 非公開** | 4 | Private archives |
+| **Total** | 34 | Includes public and private repositories under `@torifo` |
+
+Public repositories: [torifo repositories](https://github.com/torifo?tab=repositories)
+
+| Public Repository | Theme |
+|:------------------|:------|
+| [freeslot-allocator-app](https://github.com/torifo/freeslot-allocator-app) | Scheduling / allocation app |
+| [llm-google-calendar-browser-extension](https://github.com/torifo/llm-google-calendar-browser-extension) | Browser extension / calendar / LLM |
+| [torifo](https://github.com/torifo/torifo) | Profile README |
+| [wording-stock](https://github.com/torifo/wording-stock) | Writing / wording support |
+| [portion-flow](https://github.com/torifo/portion-flow) | Personal app |
+| [shikuty](https://github.com/torifo/shikuty) | Municipality puzzle game |
+| [matter-reson](https://github.com/torifo/matter-reson) | Personal app |
+| [nexus-sticky](https://github.com/torifo/nexus-sticky) | Multi-window synchronized sticky notes |
+| [portfolio-astro](https://github.com/torifo/portfolio-astro) | Portfolio site |
+| [echo-news](https://github.com/torifo/echo-news) | CLI |
+| [astral-drive](https://github.com/torifo/astral-drive) | CLI |
+| [java-game-RetroShootingGame.Genshi...](https://github.com/torifo?tab=repositories&q=java-game&type=source) | Java shooting game |
+| [jgeo](https://github.com/torifo/jgeo) | Geography app |
+| [wanderpath-journey](https://github.com/torifo/wanderpath-journey) | Public release repository |
+| [discord-vc-watcher-bot](https://github.com/torifo/discord-vc-watcher-bot) | Discord voice channel watcher bot |
+| [cataloger-shelf](https://github.com/torifo/cataloger-shelf) | Public release repository |
+
+| Private Work | Status |
+|:-------------|:-------|
+| `reachtrail-app` | 開発中 |
+| `hostra-pwa` | 開発中 |
+| `tech-atrium-wiki` | 開発中 |
+| `slack-times-butler-bot` | 開発中 |
+| `yarikuri.discord-bot` | 開発中 |
+| `wanderpath-journey.dev` | 開発中 |
+| `senior-thesis-develop` | 開発中 |
+| `TravelerA-Genshin-DB-Manager-WebApp` | 開発中 |
+| `university-credit-checker` | 開発中 |
+| `genshin-site-mediator.discord-bot` | 開発中 |
+| `gahama` | 開発中 |
+| `cataloger-shelf.dev` | 開発中 |
+| `claude-usage-bot` | 開発中 |
+| `lab-marp-decks` | 開発中 |
+| `recommendation-system` | 非公開 |
+| `Portfolio` | 非公開 |
+| `Bot_revise` | 非公開 |
+| `Bot` | 非公開 |
 
 > 📌 詳細は [**ポートフォリオ**](https://portorifo.riumu.net) をご覧ください。
 
