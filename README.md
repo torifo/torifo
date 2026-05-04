@@ -150,7 +150,7 @@ Public repositories: [torifo repositories](https://github.com/torifo?tab=reposit
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/naoya25/slack-channel-digest-public/pull/8) in [naoya25/slack-channel-digest-public](https://github.com/naoya25/slack-channel-digest-public)
+1. 🔒 Closed issue [#1](https://github.com/techub-organization/techub-lp/issues/1) in [techub-organization/techub-lp](https://github.com/techub-organization/techub-lp)
 <!--END_SECTION:activity-->
 
 ---
