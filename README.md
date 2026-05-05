@@ -150,7 +150,7 @@ Public repositories: [torifo repositories](https://github.com/torifo?tab=reposit
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/techub-organization/techub-lp/issues/1) in [techub-organization/techub-lp](https://github.com/techub-organization/techub-lp)
+1. 🎉 Merged PR [#4](https://github.com/techub-organization/techub-lp/pull/4) in [techub-organization/techub-lp](https://github.com/techub-organization/techub-lp)
 <!--END_SECTION:activity-->
 
 ---
