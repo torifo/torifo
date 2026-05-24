@@ -92,14 +92,14 @@
 
 ## 🚀 Repositories
 
-> GitHub repositories overview as of 2026-05-18 JST.
+> GitHub repositories overview as of 2026-05-25 JST.
 
 | Scope | Count | Notes |
 |:------|------:|:------|
-| **Public** | 47 | OSS / portfolio / released personal projects |
+| **Public** | 79 | OSS / portfolio / released personal projects |
 | **Private / 開発中** | 13 | Active development and private experiments |
 | **Private / 非公開** | 4 | Private archives |
-| **Total** | 64 | Includes public and private repositories under `@torifo` |
+| **Total** | 96 | Includes public and private repositories under `@torifo` |
 | **Organization** | — | [@techub-organization](https://github.com/techub-organization) へ一部リポジトリを移管 |
 
 | Private Work | Status |
@@ -133,7 +133,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/techub-organization/techub-lp/pull/4) in [techub-organization/techub-lp](https://github.com/techub-organization/techub-lp)
+1. ⬆️ Pushed to [torifo/design-fitness-gym-salon](https://github.com/torifo/design-fitness-gym-salon)
 <!--END_SECTION:activity-->
 
 ---
