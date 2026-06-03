@@ -63,68 +63,59 @@
 
 <!-- ① 継続性：もっとも目を引く単一指標として中央に大きく配置 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=torifo&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ja" />
+  <img src="https://streak-stats.demolab.com?user=torifo&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&locale=ja" />
 </div>
 
 <br>
 
 <!-- ② 全体像：コントリビューションタイムラインで活動の厚みを見せる -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torifo&theme=tokyonight" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torifo&theme=radical" width="100%"/>
 </div>
 
 <br>
 
 <!-- ③ 詳細：言語の深さ（コミット量ベース）＋活動時間帯を左右に並置 -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=tokyonight" width="49%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=tokyonight&utcOffset=9" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=radical" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=radical&utcOffset=9" width="49%"/>
 </div>
 
 <br>
 
 <!-- ④ 波形：日次の活動パターンを面グラフで締める -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torifo&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torifo&theme=radical&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 Repositories
 
-> GitHub repositories overview as of 2026-05-25 JST.
+> 公開・非公開を合わせた `@torifo` 名義のリポジトリ概観。件数は日々変動するため「○○ 以上」表記。
 
-| Scope | Count | Notes |
-|:------|------:|:------|
-| **Public** | 79 | OSS / portfolio / released personal projects |
-| **Private / 開発中** | 13 | Active development and private experiments |
-| **Private / 非公開** | 4 | Private archives |
-| **Total** | 96 | Includes public and private repositories under `@torifo` |
-| **Organization** | — | [@techub-organization](https://github.com/techub-organization) へ一部リポジトリを移管 |
+|Scope|Count|Notes|
+|:----|:----|:----|
+|**Public**|100 以上|OSS / portfolio / released personal projects|
+|**Private（非公開）**|3 件|`Bot_revise` / `claude-usage-bot` / `yarikuri.discord-bot`|
+|**Total**|120 以上|`@torifo` 配下の全リポジトリ|
+|**Organization**|—|[@techub-organization](https://github.com/techub-organization) へ一部移管|
 
-| Private Work | Status |
-|:-------------|:-------|
-| `hostra-pwa` | 開発中 |
-| `serendipity-encount` | 開発中 |
-| `welfare-optimizer-tool` | 開発中 |
-| `yarikuri.discord-bot` | 開発中 |
-| `wanderpath-journey.dev` | 開発中 |
-| `senior-thesis-develop` | 開発中 |
-| `TravelerA-Genshin-DB-Manager-WebApp` | 開発中 |
-| `university-credit-checker` | 開発中 |
-| `genshin-site-mediator.discord-bot` | 開発中 |
-| `gahama` | 開発中 |
-| `cataloger-shelf.dev` | 開発中 |
-| `claude-usage-bot` | 開発中 |
-| `lab-marp-decks` | 開発中 |
-| `recommendation-system` | 非公開 |
-| `Portfolio` | 非公開 |
-| `Bot_revise` | 非公開 |
-| `Bot` | 非公開 |
+### Featured Categories
 
-| Organization Work | Repository |
-|:------------------|:-----------|
-| [@techub-organization](https://github.com/techub-organization) | [tech-atrium-wiki](https://github.com/techub-organization/tech-atrium-wiki) / [techub-lp](https://github.com/techub-organization/techub-lp) など |
+|Category|Count|Examples|
+|:-------|:----|:-------|
+|🪛 **Claude Code Skills** (`skills-*`)|20 以上|`skills`, `skills-sdd`, `skills-test-gen`, `skills-secret-scan`, `skills-mongo-pattern`, `skills-create-spec` …|
+|🎨 **Brand Design Studies** (`design-*`)|30 以上|`design-apparel-trend`, `design-beauty-salon-ivoire`, `design-furniture-artisan`, `design-art-gallery-digital`, `design-fitness-gym-reshape` …|
+|🌀 **Animation Studies** (`animation-*`)|15 以上|`animation-blob-morph`, `animation-scroll-type`, `animation-tilt-card`, `animation-iris-shutter`, `animation-layered-parallax` …|
+|⏱ **Personal Products**|10 以上|`snaptick-desktop-app`, `homebrew-snaptick`, `hostra-pwa`, `wanderpath-journey`, `business-card`, `fade-ticae`, `bookmarklet-kit` …|
+|🤖 **Bots & Automation**|—|`slack-times-butler-bot`, `discord-vc-watcher-bot`, `llm-google-calendar-browser-extension`, `genshin-site-mediator.discord-bot` …|
+
+### Organization
+
+|Organization|Repository|
+|:-----------|:---------|
+|[@techub-organization](https://github.com/techub-organization)|[tech-atrium-wiki](https://github.com/techub-organization/tech-atrium-wiki) / [techub-lp](https://github.com/techub-organization/techub-lp) など|
 
 > 📌 詳細は [**ポートフォリオ**](https://portorifo.riumu.net) をご覧ください。
 
@@ -140,17 +131,7 @@
 
 ## 📋 Career
 
-> 🚧 *Work in Progress — 現在整備中*
-
-```text
-2022.04  東京都立大学 入学
-2022.08  個人開発スタート
-2023.04  Python 天気 CLI 制作
-2024.06  Discord Bot 開発着手（5プロジェクト）
-2025.05  Web Application 公開
-2026.03  卒業
-2026.04  ── 現在進行中 ──
-```
+> 詳細は [**ポートフォリオ**](https://portorifo.riumu.net) をご覧ください。
 
 ---
 
