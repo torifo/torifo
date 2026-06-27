@@ -117,7 +117,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [torifo/design-fitness-gym-salon](https://github.com/torifo/design-fitness-gym-salon)
+1. ❗ Opened issue [#1](https://github.com/torifonium/tatemd/issues/1) in [torifonium/tatemd](https://github.com/torifonium/tatemd)
 <!--END_SECTION:activity-->
 
 ---
