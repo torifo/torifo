@@ -117,7 +117,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/torifonium/tatemd/issues/1) in [torifonium/tatemd](https://github.com/torifonium/tatemd)
+1. 🎉 Merged PR [#8](https://github.com/torifonium/tatemd/pull/8) in [torifonium/tatemd](https://github.com/torifonium/tatemd)
 <!--END_SECTION:activity-->
 
 ---
