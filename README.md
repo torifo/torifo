@@ -14,15 +14,16 @@
 [![Dashboard](https://img.shields.io/badge/Dashboard-opulse--monitor-000000?style=for-the-badge&logo=deno&logoColor=white)](https://opulse-monitor.torifo.deno.net)
 [![Dev Mail](https://img.shields.io/badge/Dev%20Mail-progbot.clover%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:progbot.clover@gmail.com)
 
-[![typograssy](https://typograssy.deno.dev/api?text=torifo&comment=Game%20%7C%20Dev%20%7C%20Travel)](https://github.com/kawarimidoll/typograssy)
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-> 詳細は [**ポートフォリオ**](https://portorifo.riumu.net) をご覧ください。
+> **Game | Dev | Travel** ── 三つの視点から「全体最適」を探る個人開発者。
+> 個人開発と OSS を軸に、Web / デスクトップ / CLI / ゲームを横断して作っています。
+>
+> 経歴・スキル・制作物の詳細は [**ポートフォリオ**](https://portorifo.riumu.net) にまとめています。
 
 ---
 
@@ -31,11 +32,13 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,java,ruby,php&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,swift,kotlin,dart,elixir,zig,java,ruby,php&perline=7" />
     <!-- Frameworks / Runtime -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,nodejs,fastapi,flask,express,laravel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=deno,bun,nodejs,react,nextjs,astro,svelte,flutter,tauri,vite,fastapi,flask,express,laravel&perline=7" />
+    <!-- Graphics / Hypermedia -->
+    <img src="https://skillicons.dev/icons?i=threejs,wasm,htmx&perline=7" />
     <!-- DB / Infra / Tools -->
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,nginx,ubuntu,githubactions,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,nginx,ubuntu,githubactions,git&perline=7" />
   </a>
 </div>
 
@@ -44,10 +47,14 @@
 <!-- skillicons に無いもののみ flat badge で補完 -->
 <div align="center">
 
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=flat-square&logo=gleam&logoColor=black)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![Fresh](https://img.shields.io/badge/Fresh-FFDB1E?style=flat-square&logo=fresh&logoColor=black)
+![Wails](https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=go&logoColor=white)
+![Kotlin MP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -55,24 +62,25 @@
 
 ## 📊 GitHub Stats
 
-<!-- ① 継続性：もっとも目を引く単一指標として中央に大きく配置 -->
+<!-- ① 継続性：streak-stats.demolab.com が応答停止中のため一時無効化。復旧したらコメントを外す
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=torifo&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&locale=ja" />
 </div>
+-->
 
 <br>
 
 <!-- ② 全体像：コントリビューションタイムラインで活動の厚みを見せる -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torifo&theme=radical" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torifo&theme=radical" width="100%"/>
 </div>
 
 <br>
 
 <!-- ③ 詳細：言語の深さ（コミット量ベース）＋活動時間帯を左右に並置 -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=radical" width="49%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=radical&utcOffset=9" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torifo&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torifo&theme=radical&utcOffset=9" width="49%"/>
 </div>
 
 <br>
@@ -86,7 +94,7 @@
 
 ## 🎁 Products
 
-> 完成度と手ざわりで選んだ 11 作品。**▶** はライブデモ。
+> 完成度と手ざわりで選んだ 12 作品。**▶** はライブデモ。
 
 |Product|概要|Stack|Live|
 |:------|:---|:----|:---|
@@ -101,15 +109,15 @@
 |[n0vamux-deck](https://github.com/torifo/n0vamux-deck)|HoYoverse 作品のライブ壁紙をマルチモニタで扱う macOS アプリ|Swift|—|
 |[slack-times-butler-bot](https://github.com/torifo/slack-times-butler-bot)|times に流した言葉を、資産に変える執事|Python|—|
 |[frelocator](https://github.com/torifo/freeslot-allocator-app)|自由時間を、計画に変える。そして、振り返れる形で残す|Dart / Flutter|[▶](https://app.frelocator.riumu.net/)|
+|[ambiguous-3d-studio](https://github.com/torifo/ambiguous-3d-studio)|2〜3方向からの投影シルエットを同時に満たす錯視立体を、ブラウザ上で生成・体験し STL 出力する|TypeScript|🚧 開発中|
 
 > 🖥 稼働状況は [**opulse-monitor**](https://opulse-monitor.torifo.deno.net) で1画面にまとめています。
 
 <details>
-<summary><b>その他のプロダクト（30）</b></summary>
+<summary><b>その他のプロダクト（29）</b></summary>
 
 |Repository|Theme|Lang|Live|
 |:--|:--|:--|:--|
-|[ambiguous-3d-studio](https://github.com/torifo/ambiguous-3d-studio)|2〜3方向からの投影シルエットを同時に満たす錯視立体を、ブラウザ上で生成・体験・STL出力す…|TypeScript|—|
 |[meme-fortress-www](https://github.com/torifo/meme-fortress-www)|インターネットのくだらなさを、面白おかしくに展示する|Rust|[▶](https://torifo.github.io/meme-fortress-www/)|
 |[webgl-design](https://github.com/torifo/webgl-design)|水面が揺れるように、インタラクションがデザインになる。3ライブラリ比較レポート|HTML|[▶](https://torifo.github.io/webgl-design/webgl.htm)|
 |[vertcut-cli](https://github.com/torifo/vertcut-cli)|GPX/位置ログから獲得標高・勾配・ラップ・SVG標高プロファイルを生成する単一バイナリCLI|Zig|[▶](https://torifo.github.io/vertcut-cli/)|
@@ -172,20 +180,6 @@
 |[@techub-organization](https://github.com/techub-organization)|[tech-atrium-wiki](https://github.com/techub-organization/tech-atrium-wiki) / [techub-lp](https://github.com/techub-organization/techub-lp) など|
 
 > 📌 詳細は [**ポートフォリオ**](https://portorifo.riumu.net) をご覧ください。
-
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/torifonium/tatemd/pull/8) in [torifonium/tatemd](https://github.com/torifonium/tatemd)
-<!--END_SECTION:activity-->
-
----
-
-## 📋 Career
-
-> 詳細は [**ポートフォリオ**](https://portorifo.riumu.net) をご覧ください。
 
 ---
 
