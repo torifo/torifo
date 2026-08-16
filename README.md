@@ -18,9 +18,10 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & Career
 
-> **Game | Dev | Travel** ── 三つの視点から「全体最適」を探る個人開発者。
+> **Game | Dev | Travel** ──
+> 三つの視点から「全体最適」を探る個人開発者。
 > 個人開発と OSS を軸に、Web / デスクトップ / CLI / ゲームを横断して作っています。
 >
 > 経歴・スキル・制作物の詳細は [**ポートフォリオ**](https://portorifo.riumu.net) にまとめています。
