@@ -31,17 +31,20 @@
 
 ## 🛠️ Tech Stack
 
+<!-- カテゴリごとに独立ブロック化し、各行を perline の倍数に揃えて隙間を無くす -->
 <div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,swift,kotlin,dart,elixir,zig,java,ruby,php&perline=7" />
-    <!-- Frameworks / Runtime -->
-    <img src="https://skillicons.dev/icons?i=deno,bun,nodejs,react,nextjs,astro,svelte,flutter,tauri,vite,fastapi,flask,express,laravel&perline=7" />
-    <!-- Graphics / Hypermedia -->
-    <img src="https://skillicons.dev/icons?i=threejs,wasm,htmx&perline=7" />
-    <!-- DB / Infra / Tools -->
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,nginx,ubuntu,githubactions,git&perline=7" />
-  </a>
+  <!-- Languages (14 = 7×2) -->
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,zig,swift,kotlin,dart,elixir,java,ruby,php,html&perline=7" />
+</div>
+
+<div align="center">
+  <!-- Frameworks / Runtime (14 = 7×2) -->
+  <img src="https://skillicons.dev/icons?i=deno,bun,nodejs,react,nextjs,astro,svelte,flutter,tauri,vite,fastapi,flask,express,laravel&perline=7" />
+</div>
+
+<div align="center">
+  <!-- Graphics / Data / Infra (12 = 6×2) -->
+  <img src="https://skillicons.dev/icons?i=threejs,wasm,htmx,postgres,mysql,sqlite,mongodb,docker,nginx,ubuntu,githubactions,git&perline=6" />
 </div>
 
 <br>
